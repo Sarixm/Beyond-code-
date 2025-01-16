@@ -2,13 +2,18 @@
 //using namespace std;
 //
 //int komarachi(int n) {
-//	if (n == 2 || n == 1) {
-//		return 1;
-//	}
-//	if (n == 0) { return 0; }
-//	return komarachi(n - 1) + komarachi(n - 2) + komarachi(n - 3);
-//
+//    if (n == 0) return 0;
+//    if (n == 1 || n == 2) return 1;
+//    int a = 0, b = 1, c = 1, temp;
+//    for (int i = 3; i <= n; i++) {
+//        temp = a + b + c;
+//        a = b;
+//        b = c;
+//        c = temp;
+//    }
+//    return c;
 //}
+//
 //
 //
 //int main() {
