@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|solutionrelative:Q11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\q10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|solutionrelative:q10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|solutionrelative:Q9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1843124-AE10-4FFF-8EC8-BC95B1790EFB}|BTC-1-5-5785-TAL.vcxproj|solutionrelative:Q8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -54,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +82,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Q11.cpp",
+              "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q11.cpp",
+              "RelativeDocumentMoniker": "Q11.cpp",
+              "ToolTip": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q11.cpp",
+              "RelativeToolTip": "Q11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T08:29:12.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "q10.cpp",
+              "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\q10.cpp",
+              "RelativeDocumentMoniker": "q10.cpp",
+              "ToolTip": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\q10.cpp",
+              "RelativeToolTip": "q10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T08:27:47.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q9.cpp",
+              "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q9.cpp",
+              "RelativeDocumentMoniker": "Q9.cpp",
+              "ToolTip": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q9.cpp",
+              "RelativeToolTip": "Q9.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-16T08:27:24.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Q4.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q4.cpp",
               "RelativeDocumentMoniker": "Q4.cpp",
@@ -78,12 +129,11 @@
               "RelativeToolTip": "Q4.cpp",
               "ViewState": "AQIAAAIAAAAAAAAAAAAmwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-16T08:20:34.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T08:20:34.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Q3.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q3.cpp",
               "RelativeDocumentMoniker": "Q3.cpp",
@@ -91,12 +141,11 @@
               "RelativeToolTip": "Q3.cpp",
               "ViewState": "AQIAAA4AAAAAAAAAAAAmwBgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T09:35:10.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T09:35:10.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Q7.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q7.cpp",
               "RelativeDocumentMoniker": "Q7.cpp",
@@ -104,12 +153,11 @@
               "RelativeToolTip": "Q7.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T10:46:50.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:46:50.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Q17.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q17.cpp",
               "RelativeDocumentMoniker": "Q17.cpp",
@@ -121,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Q14.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q14.cpp",
               "RelativeDocumentMoniker": "Q14.cpp",
@@ -133,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Q13.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q13.cpp",
               "RelativeDocumentMoniker": "Q13.cpp",
@@ -145,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Q6.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q6.cpp",
               "RelativeDocumentMoniker": "Q6.cpp",
@@ -153,12 +201,11 @@
               "RelativeToolTip": "Q6.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T10:16:41.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:16:41.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Q5.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q5.cpp",
               "RelativeDocumentMoniker": "Q5.cpp",
@@ -166,25 +213,24 @@
               "RelativeToolTip": "Q5.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T09:38:16.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T09:38:16.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Q8.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q8.cpp",
               "RelativeDocumentMoniker": "Q8.cpp",
               "ToolTip": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q8.cpp",
               "RelativeToolTip": "Q8.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-13T09:37:48.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Q2.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q2.cpp",
               "RelativeDocumentMoniker": "Q2.cpp",
@@ -192,12 +238,11 @@
               "RelativeToolTip": "Q2.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T09:24:13.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T09:24:13.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Q1.cpp",
               "DocumentMoniker": "C:\\Users\\meirc\\OneDrive - Jerusalem College of Technology - Machon Lev\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Repos\\Beyond code\\Beyond-code-\\BTC-1-5-5785-TAL\\Q1.cpp",
               "RelativeDocumentMoniker": "Q1.cpp",
@@ -205,8 +250,7 @@
               "RelativeToolTip": "Q1.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-13T08:44:39.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T08:44:39.215Z"
             }
           ]
         }
