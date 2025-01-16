@@ -1,1 +1,28 @@
+# BEYOND CODE - Coding Problems and Solutions
 
+Welcome to the **BEYOND CODE** repository! 🚀  
+
+This repository contains a collection of challenging coding problems and their solutions, created for the BEYOND CODE competition for first- and second-year Computer Science students.
+
+## About the Competition
+BEYOND CODE is an engaging coding challenge designed to:
+- Encourage creative problem-solving.
+- Strengthen teamwork and collaboration.
+- Provide a fun and competitive environment for learning programming concepts.
+
+Participants were tasked with solving a variety of problems, ranging from beginner to advanced levels.
+
+## Repository Structure
+- **`Problems/`**: A directory containing all the coding problems presented during the competition.
+- **`Solutions/`**: A directory with the solutions to the problems. Each solution is well-documented for educational purposes.
+
+## Highlights
+- Written in C++.
+- Focused on foundational concepts in programming.
+- Real-world challenges that simulate industry-level problem-solving.
+
+## Getting Started
+To explore the problems and solutions:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/BeyondCode.git
