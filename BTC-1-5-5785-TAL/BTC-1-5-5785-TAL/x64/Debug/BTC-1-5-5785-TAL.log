@@ -1,0 +1,2 @@
+﻿Q17.obj : error LNK2005: main already defined in Q14.obj
+C:\Users\meirc\OneDrive - Jerusalem College of Technology - Machon Lev\שולחן העבודה\BTC-1-5-5785-TAL\x64\Debug\BTC-1-5-5785-TAL.exe : fatal error LNK1169: one or more multiply defined symbols found
