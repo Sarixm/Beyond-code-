@@ -13,7 +13,7 @@ BEYOND CODE is more than just a coding challenge; it's an opportunity to:
 Participants faced a variety of problems, spanning beginner to advanced levels, testing their logic, algorithmic thinking, and adaptability under pressure.
 
 ## Repository Structure
-- **`Problems/`**: Contains all the coding problems presented during the competition. Each problem is clearly explained with input/output examples.
+- **`Problems/https://github.com/Sarixm/Beyond-code-/blob/main/BTC1%20-%20Questions-tal.docx`**: Contains all the coding problems presented during the competition. Each problem is clearly explained with input/output examples.
 - **`Solutions/`**: Includes detailed and well-commented solutions to each problem, written in C++. 
 
 ## Why BEYOND CODE?
